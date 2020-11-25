@@ -1,3 +1,11 @@
 /venv/
 
 .idea/
+
+fantasy_game/__pycache__/
+
+player/__pycache__/
+
+player/migrations/__pycache__/
+
+media/image/escudo_times/avai.jpg
